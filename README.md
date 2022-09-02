@@ -1,5 +1,5 @@
-# Veja o site clicando AQUI! (https://levi-b-code.github.io/Netflix_Clone/)
-<br> <br>
+ Veja o site clicando AQUI! (https://levi-b-code.github.io/Netflix_Clone/)
+<br> 
 
 # Netflix_Clone
 Conheça o Leviflix o primo da Netflix ;D
